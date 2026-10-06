@@ -1,0 +1,31 @@
+
+
+[data-font="syne"], :root {
+  --font-heading: 'Syne', sans-serif;
+  --font-heading-weight: 800;
+  --font-heading-tracking: -0.035em;
+}
+
+[data-font="clash"] {
+  --font-heading: 'Clash Display', 'Syne', sans-serif;
+  --font-heading-weight: 700;
+  --font-heading-tracking: -0.02em;
+}
+
+[data-font="bricolage"] {
+  --font-heading: 'Bricolage Grotesque', sans-serif;
+  --font-heading-weight: 800;
+  --font-heading-tracking: -0.03em;
+}
+
+[data-font="unbounded"] {
+  --font-heading: 'Unbounded', sans-serif;
+  --font-heading-weight: 800;
+  --font-heading-tracking: -0.04em;
+}
+
+[data-font="epilogue"] {
+  --font-heading: 'Epilogue', sans-serif;
+  --font-heading-weight: 900;
+  --font-heading-tracking: -0.04em;
+}
